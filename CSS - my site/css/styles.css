@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    margin-top: 0;
+    font-size: 5.625rem;
+    line-height: 2;
+}
+
+.top-container {
+    background-color: #77ACF1;
+    position: relative;
+    padding-top: 100px;
+    text-align: center;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+.profile{
+    text-align: center;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+.middle-container {
+    text-align: center;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+.bottom-container {
+    text-align: center;
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+.skill-row1{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.skill-row2{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: right;
+}
+
+.row1-paragraph{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.row2-paragraph{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+.cloud1 {
+    top: 50px;
+    right: 500px;
+    position: absolute;
+}
+
+.cloud2 {
+    margin-left: 40px;
+    margin-top: 50px;
+    position: absolute;
+}
+
+.wrastling{
+    float: right;
+    margin-left: 50px;
+}
+
+.pasta{
+    float: left;
+    margin-right: 30px;
+}
